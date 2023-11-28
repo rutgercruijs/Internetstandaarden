@@ -1,0 +1,21 @@
+h1,h2{
+    color:steelblue
+}
+h3{
+    color:yellowgreen
+}
+.block{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+    padding: 0px;
+}
+nav ul {
+    margin: 0%;
+    padding: 0%;
+    list-style-type: 0;
+}
+nav ul li{
+    -moz-text-decoration-color: blueviolet;
+}
